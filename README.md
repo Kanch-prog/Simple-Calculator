@@ -6,8 +6,11 @@ Welcome to the Simple Calculator App! This Android app performs basic arithmetic
 🌟 Features
 
 ➕ Addition: Calculate the sum of two numbers.
+
 ➖ Subtraction: Find the difference between two numbers.
+
 ✖️ Multiplication: Compute the product of two numbers.
+
 ➗ Division: Get the quotient of two numbers (with zero-division handling).
 
 🚀 Getting Started
