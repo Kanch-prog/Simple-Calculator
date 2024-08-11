@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="edit_text1_hint">Enter first number</string>
+    <string name="edit_text2_hint">Enter second number</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="error_message">Error</string>
+    <string name="division_by_zero_error">Cannot divide by zero</string>
+    <string name="edit_text1_description">First number input field</string>
+    <string name="edit_text2_description">Second number input field</string>
+    <string name="add_button_description">Add numbers</string>
+    <string name="subtract_button_description">Subtract numbers</string>
+    <string name="multiply_button_description">Multiply numbers</string>
+    <string name="divide_button_description">Divide numbers</string>
+    <string name="result_text_description">Result of the calculation</string>
+</resources>
