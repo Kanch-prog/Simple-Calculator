@@ -13,14 +13,19 @@ Welcome to the Simple Calculator App! This Android app performs basic arithmetic
 
 ➗ Division: Get the quotient of two numbers (with zero-division handling).
 
+
 🚀 Getting Started
 
 📋 Prerequisites
+
 Android Studio: IDE for Android development.
+
 Android Device or Emulator: To run and test the app.
 
 🛠️ Installation
+
 Clone the Repository
+
 git clone https://github.com/yourusername/mycalculatorapp.git
 
 Open the Project
