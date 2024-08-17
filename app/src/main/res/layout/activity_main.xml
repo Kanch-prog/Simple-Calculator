@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Root layout container -->
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp">
 
+    <!-- First input field for numeric input -->
     <EditText
         android:id="@+id/editText1"
         android:layout_width="match_parent"
@@ -18,6 +20,7 @@
         android:maxWidth="488dp"
         tools:ignore="VisualLintTextFieldSize" />
 
+    <!-- Second input field for numeric input -->
     <EditText
         android:id="@+id/editText2"
         android:layout_width="match_parent"
@@ -32,6 +35,7 @@
         android:maxWidth="488dp"
         tools:ignore="VisualLintTextFieldSize" />
 
+    <!-- Button for the addition operation -->
     <Button
         android:id="@+id/addButton"
         android:layout_width="wrap_content"
@@ -42,6 +46,7 @@
         android:padding="16dp"
         android:contentDescription="@string/add_button_description"/>
 
+    <!-- Button for the subtraction operation -->
     <Button
         android:id="@+id/subtractButton"
         android:layout_width="wrap_content"
@@ -53,6 +58,7 @@
         android:padding="16dp"
         android:contentDescription="@string/subtract_button_description"/>
 
+    <!-- Button for the multiplication operation -->
     <Button
         android:id="@+id/multiplyButton"
         android:layout_width="wrap_content"
@@ -64,6 +70,7 @@
         android:padding="16dp"
         android:contentDescription="@string/multiply_button_description"/>
 
+    <!-- Button for the division operation -->
     <Button
         android:id="@+id/divideButton"
         android:layout_width="wrap_content"
@@ -76,6 +83,7 @@
         android:padding="16dp"
         android:contentDescription="@string/divide_button_description"/>
 
+    <!-- TextView for displaying the result -->
     <TextView
         android:id="@+id/resultTextView"
         android:layout_width="wrap_content"
