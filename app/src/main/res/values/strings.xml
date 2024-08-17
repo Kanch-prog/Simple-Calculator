@@ -1,19 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Application name -->
     <string name="app_name">Simple Calculator</string>
+
+    <!-- Hint for the first EditText input field -->
     <string name="edit_text1_hint">Enter first number</string>
+
+    <!-- Hint for the second EditText input field -->
     <string name="edit_text2_hint">Enter second number</string>
+
+    <!-- Text for the Add button -->
     <string name="add">Add</string>
+
+    <!-- Text for the Subtract button -->
     <string name="subtract">Subtract</string>
+
+    <!-- Text for the Multiply button -->
     <string name="multiply">Multiply</string>
+
+    <!-- Text for the Divide button -->
     <string name="divide">Divide</string>
+
+    <!-- General error message to display when an input error occurs -->
     <string name="error_message">Error</string>
+
+    <!-- Error message displayed when attempting to divide by zero -->
     <string name="division_by_zero_error">Cannot divide by zero</string>
+
+    <!-- Accessibility description for the first input field -->
     <string name="edit_text1_description">First number input field</string>
+
+    <!-- Accessibility description for the second input field -->
     <string name="edit_text2_description">Second number input field</string>
+
+    <!-- Accessibility description for the Add button -->
     <string name="add_button_description">Add numbers</string>
+
+    <!-- Accessibility description for the Subtract button -->
     <string name="subtract_button_description">Subtract numbers</string>
+
+    <!-- Accessibility description for the Multiply button -->
     <string name="multiply_button_description">Multiply numbers</string>
+
+    <!-- Accessibility description for the Divide button -->
     <string name="divide_button_description">Divide numbers</string>
+
+    <!-- Accessibility description for the result TextView -->
     <string name="result_text_description">Result of the calculation</string>
 </resources>
